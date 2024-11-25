@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.blogs-container{
+    list-style-type:none;
+    display:flex;
+    flex-direction:column;
+}
